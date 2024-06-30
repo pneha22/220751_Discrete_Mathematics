@@ -1,0 +1,2 @@
+# 220751_Discrete_Mathematics
+STAMATICS SUMMER 2024 PROJECT
